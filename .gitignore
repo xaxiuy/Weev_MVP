@@ -1,0 +1,14 @@
+# Ignorar dependencias
+node_modules/
+
+# Ignorar builds
+dist/
+
+# Ignorar variables de entorno
+.env
+
+# Ignorar archivos del sistema
+.DS_Store
+
+# Ignorar configuraciones personales
+.vscode/
